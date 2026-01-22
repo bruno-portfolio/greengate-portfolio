@@ -9,9 +9,7 @@
 
 ---
 
-
-https://github.com/user-attachments/assets/3ea854e9-9758-49a7-ae72-bd6390a320a9
-
+https://github.com/user-attachments/assets/add1e205-d3f0-4629-a870-2e4bdf8060aa
 
 ## What is GreenGate?
 
