@@ -1,5 +1,6 @@
 # GreenGate
 
+
 **Environmental Geo-Compliance API** - Validate rural properties and land parcels against Brazilian environmental and regulatory databases.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
